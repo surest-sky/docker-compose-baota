@@ -67,7 +67,7 @@
 
 请检查当前`docker`容器，配置的是否为国内地址
 
-![图片描述...](https://cdn.surest.cn/Frop9zSUUJ4WO1HRqOQXqmLsmOLa)
+![图片描述...](https://cdn.surest.cn/FjnFaCEhGSjm7BpypRedEtQcbY02)
 
         {
             "experimental": false,
