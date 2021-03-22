@@ -1,4 +1,4 @@
-# Mac、Win 系统一键快速搭建部署集成环境 （Docker、Docker-compose、宝塔）
+# ![图片描述...](https://img.shields.io/badge/docs-passing-success) Mac、Win 系统一键快速搭建部署集成环境 （Docker、Docker-compose、宝塔）
 
 ## 使用操作
 
@@ -66,7 +66,6 @@
 请检查当前`docker`容器，配置的是否为国内地址
 
 ![图片描述...](https://cdn.surest.cn/Frop9zSUUJ4WO1HRqOQXqmLsmOLa)
-
     {
         "experimental": false,
         "features": {
