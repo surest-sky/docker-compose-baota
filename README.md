@@ -10,12 +10,7 @@
 
 如遇到下载失败，请参考: https://gitclone.com/
 
-    // 方案1
     git clone https://github.com/surest-sky/docker-compose-baota.git docker-compose-baota
-
-    // 方案2
-    git clone https://github.com/surest-sky/docker-compose-baota.git
-
     cd docker-compose-baota
     docker-compose up -d
 
