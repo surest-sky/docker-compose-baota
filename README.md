@@ -8,8 +8,8 @@
 
 ## 快速开始
 
-    git clone 
-    cd
+    git clone https://github.com/surest-sky/docker-compose-baota.git docker-compose-baota
+    cd docker-compose-baota
     docker-compose up -d
 
 ### 配置环境
