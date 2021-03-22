@@ -67,6 +67,16 @@
 
 ![图片描述...](https://cdn.surest.cn/Frop9zSUUJ4WO1HRqOQXqmLsmOLa)
 
+    {
+        "experimental": false,
+        "features": {
+            "buildkit": true
+        },
+        "registry-mirrors": [
+            "https://5zpts8zx.mirror.aliyuncs.com"
+        ]
+    }
+
 - 宝塔配置网站域名失败或者一直加载中
 
 可能是由于你的项目文件太大、文件太多的原因
