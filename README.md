@@ -68,15 +68,16 @@
 请检查当前`docker`容器，配置的是否为国内地址
 
 ![图片描述...](https://cdn.surest.cn/Frop9zSUUJ4WO1HRqOQXqmLsmOLa)
-    {
-        "experimental": false,
-        "features": {
-            "buildkit": true
-        },
-        "registry-mirrors": [
-            "https://5zpts8zx.mirror.aliyuncs.com"
-        ]
-    }
+
+        {
+            "experimental": false,
+            "features": {
+                "buildkit": true
+            },
+            "registry-mirrors": [
+                "https://5zpts8zx.mirror.aliyuncs.com"
+            ]
+        }
 
 - 宝塔配置网站域名失败或者一直加载中
 
