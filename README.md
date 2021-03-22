@@ -31,7 +31,7 @@
     # 重启
     docker-compose restart
 
-3、指定每个容器重启
+3、指定某个容器重启
 
     # container_name 表示 yml 中的容器名称
     docker-compose container_name up -d
