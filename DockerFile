@@ -1,0 +1,8 @@
+# wget https://golang.org/dl/go1.17.linux-amd64.tar.gz
+# rm -rf /usr/local/go && tar -C /usr/local -xzf go1.17.linux-amd64.tar.gz
+# export PATH=$PATH:/usr/local/go/bin
+# export GOPROXY=https://goproxy.io,direct
+# wget https://github.com/silenceper/gowatch/releases/download/v1.5.2-rc.1/gowatch_1.5.2-rc.1_Linux_arm64.tar.gz
+# tar -xzf go1.17.linux-amd64.tar.gz
+# cp gowatch /usr/local
+# export PATH=$PATH:/usr/local
