@@ -8,6 +8,8 @@
 
 ## 快速开始
 
+**苹果芯片**请切换到 m1 分支运行
+
 如遇到下载失败，请参考: https://gitclone.com/
 
     git clone https://github.com/surest-sky/docker-compose-baota.git docker-compose-baota
@@ -56,7 +58,7 @@
 请检查本地端口是否被使用, 当前容器使用的端口见 `yml` 文件
 
     ...
-    ports: 
+    ports:
       - "80:80"
       - "443:443"
       - "8888:8888"
